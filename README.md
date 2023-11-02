@@ -13,7 +13,7 @@ A data visualization dashboard project to display and interact with visualizatio
 
 ## Overview
 
-The Data Visualization Dashboard is designed to [briefly explain the primary purpose and goals of your dashboard]. It provides an interactive platform to explore and gain insights from [mention the type of data or domain the dashboard focuses on].
+The Data Visualization Dashboard is a dynamic web-based platform designed to provide interactive visualizations and insights. This project aims to empower users to explore, analyze, and gain meaningful insights from the data through a user-friendly and visually appealing interface. It's made with Python, Flask, HTML and CSS for the styling.
 
 ## Features
 
@@ -21,6 +21,7 @@ The Data Visualization Dashboard is designed to [briefly explain the primary pur
 - **Data Filtering**: Easily filter and explore data by categories, date ranges, and other criteria.
 - **Real-Time Updates**: Experience real-time updates when new data becomes available.
 - **Responsive Design**: The dashboard is responsive and works seamlessly on different devices.
+- **User-Input**: The program can take input from user to display the data on the desired graph.
 - **User-Friendly Interface**: The intuitive interface allows users to explore data without a learning curve.
 
 ## Getting Started
