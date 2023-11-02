@@ -2,7 +2,8 @@
 
 A data visualization dashboard project to display and interact with visualizations of [provide a brief description of the data or domain your project is related to].
 
-![Project Logo](logo.png) <!-- Optional: Add a project logo -->
+<img src="data-vizualitation-logo.png" alt="Sample Image" width="300" height="300">
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/release/python-390/)
